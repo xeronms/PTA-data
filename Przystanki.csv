@@ -1,0 +1,403 @@
+name,id,longitutde,latitude
+Adamowice Centrum,325,18.33108333,50.13072222
+Adamowice Las,326,18.34083333,50.13119444
+Biertu�towy Mariacka,230,18.49,50.04669444
+Bogunice B�czkowiec,328,18.38386111,50.13622222
+Bogunice Centrum,327,18.36433333,50.13677778
+Boguszowicka Cmentarz,365,18.59969444,50.06813889
+Brzezi�ska,336,18.56869444,50.09038889
+Buzowice Skrzy�owanie,204,18.44219444,50.08530556
+Chwa��cice Przedszkole,245,18.48227778,50.13613889
+Chwa��cice Szko�a,246,18.48488889,50.13483333
+Chwa�owice Skrzy�owanie,254,18.538138885000002,50.07027778
+Czernica O�rodek Zdrowia,302,18.39983333,50.08641667
+Czernica przy Krzy�u,184,18.39991667,50.07486111
+Czernica Stra�,183,18.39995833,50.08280556
+Dzimierz,320,18.35430556,50.10572222
+Gaszowice Cegielnia,180,18.42280556,50.10611111
+Gaszowice Las,314,18.42716667,50.11791667
+Gaszowice Pogwizd�w,188,18.42061111,50.11188889
+Gaszowice Rydu�towska,192,18.429625,50.10161111
+Gaszowice UG,179,18.431125,50.10861111
+Gotartowice P�tla,292,18.62888889,50.07391667
+Gotartowice tymczasowy,415,18.61883333,50.0775
+Gotartowicka Cmentarz,366,18.60130556,50.06819444
+G�rki Ko�ci�,265,18.38809722,50.14022222
+G�rki Remiza,266,18.378944445000002,50.14230556
+Jankowice G.S.,273,18.57077778,50.04313889
+Jankowice Gwarek,197,18.56802778,50.04772222
+Jankowice Ko�cielna,269,18.547541665,50.04791667
+Jankowice Ko�ci�,270,18.547546296666667,50.04647222
+Jankowice P�tla,227,18.573555553333335,50.052
+Jankowice Remiza,267,18.56436111,50.04758333
+Jankowice Rybnicka,272,18.54705556,50.04405556
+Jankowice Sklep,268,18.55677778,50.04663889
+Jankowice Skrzy�owanie,274,18.556819445000002,50.04288889
+Jankowice �wierkla�ska,198,18.559541664999998,50.05391667
+Jankowice Urz�d Gminy,196,18.572125,50.04386111
+Jankowice Wowry,271,18.542458330000002,50.04536111
+Jastrz�bie Al. Pi�sudskiego-Os.Staszica,392,18.59566667,49.95008333
+Jastrz�bie Al.Pi�sudskiego-Os.Gwark�w,385,18.59527778,49.94975
+Jastrz�bie Dworzec Arki Bo�ka,386,18.61013889,49.94552778
+Jastrz�bie Dworzec Zdr�j,395,18.57347222,49.94530556
+Jastrz�bie Hala Sportowa,394,18.57791667,49.94436111
+Jastrz�bie KWK Borynia,389,18.61047222,49.99875
+Jastrz�bie KWK Zofi�wka,391,18.62211111,49.96536111
+Jastrz�bie Szerocka Kaplica,396,18.62966667,49.99041667
+Jastrz�bie Szerocka Os.1000-lecia,390,18.62272222,49.99063889
+Jastrz�bie Szpital Wojew�dzki,393,18.583472225,49.94836111
+Jastrz�bie Urz�d Skarbowy,387,18.57652778,49.95022222
+Jastrz�bie Wodzis�awska,383,18.571930555,49.95513889
+Jastrz�bie Zdrojowa,384,18.5745,49.95094444
+Jejkowice Centrum,175,18.4762152775,50.10477778
+Jejkowice Ku�nia,176,18.467013885,50.108
+Jejkowice Sumi�ska,312,18.45516667,50.11133333
+Kamie� Cegielnia,155,18.611958334999997,50.14419444
+K�okocin Wiadukt,315,18.61505556,50.05652778
+Kotucza Cmentarz,364,18.54019444,50.10213889
+Krzy�kowice Skrzy�owanie,352,18.38105556,50.05216667
+Ksi��enice Brzozy,160,18.60469444,50.14961111
+Ksi��enice Ko�ci�,161,18.598814816666664,50.15333333
+Ksi��enice Las,341,18.61147222,50.17644444
+Ksi��enice Szko�a,340,18.60241667,50.16066667
+Ku�nia Raciborska,235,18.316666665,50.19952778
+Ku�nia Raciborska DK,237,18.299694445,50.20255556
+Ku�nia Raciborska Ko�ci�,236,18.31037037,50.20113889
+Ku�nia Raciborska Osiedle,234,18.32055556,50.19916667
+Ku�nia Raciborska Rafamet,238,18.295513890000002,50.20397222
+Leszczyny Broniewskiego,159,18.62175,50.13997222
+Leszczyny Ligonia,158,18.62886111,50.14116667
+Leszczyny Rondo,157,18.63327778,50.14238889
+Ligota Gimnazjum,248,18.57915278,50.08941667
+Lyski Blazel,190,18.40080556,50.12061111
+Lyski Kamionki,411,18.39647222,50.11019444
+Lyski Las,329,18.39619444,50.1325
+Lyski Rondo,191,18.39072222,50.12025
+Lyski UPT,318,18.38216667,50.11919444
+�uk�w,182,18.40111111,50.09469444
+�uk�w PKP,181,18.40688889,50.09919444
+Marklowice Dolne,375,18.51394444,50.01833333
+Marklowice S�oneczna Wyspa,376,18.51705556,50.01675
+Marklowice Wiosny Lud�w G�rka,79,18.508652775,50.01855556
+Marklowice Wiosny Lud�wKaplica,77,18.50611111,50.03530556
+Marklowice Wiosny Lud�w Sklep,78,18.50638889,50.02811111
+Marklowice Wiosny Lud�wWidokowa,330,18.50466667,50.02422222
+Maroko Nowiny O�rodek JPII,338,18.5245,50.09925
+Maroko Nowiny Piownik,337,18.53055556,50.09844444
+Meksyk Prosta,256,18.55388889,50.08538889
+Mszana Wodzis�awska Boisko,381,18.525541665,49.97633333
+Mszana Wodzis�awskaSkrzy�owanie,382,18.54447222,49.96741667
+Nowa Wie�,319,18.35769444,50.11716667
+Obszary PKP,357,18.49266667,50.03572222
+Obszary Wiadukt,75,18.498055559999997,50.0425
+Paruszowiec Ko�ci�,259,18.57991667,50.098
+Piaski Szko�a,249,18.58408333,50.09625
+Piece Gimnazjum,193,18.430305555,50.09530556
+Plac Wolno�ci,250,18.54411111,50.09575
+P�noc Strzelecka,409,18.55825,50.10261111
+P�noc �u�lowa,410,18.55391667,50.10641667
+Pstr��na Centrum,321,18.35605556,50.08919444
+Psz�w Armii Krajowej Szko�a nr3,353,18.38633333,50.05486111
+Psz�w Bazylika,356,18.39397222,50.0405
+Psz�w DA,125,18.39698611,50.04061111
+Psz�w Traugutta ZSZ,124,18.403222225,50.04172222
+Psz�w Wiadukt,351,18.38825,50.045
+R-k Boguszowice OsiedleJastrz�bska,195,18.588930554999997,50.04311111
+R-k Boguszowice OsiedleKopalnia,20,18.589027774999998,50.04919444
+R-k Boguszowice OsiedlePatriot�w,21,18.60027778,50.04811111
+R-k Boguszowice Osiedle P�tla,22,18.6079097225,50.04675
+R-k Boguszowice Osiedle Rajska,286,18.605930555,50.05147222
+R-k Boguszowice Stare,17,18.599847224999998,50.06516667
+R-k Boguszowice Stare B��kitna,368,18.58638889,50.05225
+R-k Boguszowice StareK�okoci�ska,141,18.605,50.06111111
+R-k Boguszowice StareMa�achowskiego,19,18.589638885,50.05580556
+R-k Boguszowice StareRaszowiec,16,18.593791665,50.07330556
+R-k Boguszowice StareRejewskiego,288,18.589388884999998,50.05480556
+R-k Boguszowice Stare Szko�a,18,18.59934722,50.06111111
+R-k Boguszowice StareSztolniowa,239,18.59738889,50.05322222
+R-k Boguszowice StareSztolniowa 1,240,18.59719444,50.05580556
+R-k Chwa��cice Goj,143,18.47113889,50.13566667
+R-k Chwa��cice Kierch�wek,109,18.492305555,50.13016667
+R-k Chwa��cice Ko�ci�,142,18.480625,50.13627778
+R-k Chwa��cice Ko�ci� 1,407,18.48408333,50.13538889
+R-k Chwa��cice Pniowiec,260,18.480333335,50.14211111
+R-k Chwa��cice Przysta�,108,18.506944445000002,50.1245
+R-k Chwa��cice Skrzy�owanie,110,18.484347225,50.13744444
+R-k Chwa�owice Kolonia,224,18.55611111,50.06530556
+R-k Chwa�owice Kopalnia,65,18.549069445,50.07175
+R-k Chwa�owice Ko�doni�w,226,18.56669444,50.05669444
+R-k Chwa�owice Kr�lewiok,223,18.56311111,50.06780556
+R-k Chwa�owice Kupiecka,255,18.55052778,50.06644444
+R-k Chwa�owice Las,103,18.53733333,50.06936111
+R-k Chwa�owice Malchera,225,18.55361111,50.06330556
+R-k Chwa�owice Osiedle,66,18.55194444,50.06311111
+R-k Chwa�owice P�tla,67,18.555074073333333,50.06
+R-k Chwa�owice �l�ska,417,18.54594444,50.06972222
+R-k Golej�w G�rka,199,18.550347225000003,50.13769444
+R-k Golej�w Kaplica,241,18.54969444,50.14169444
+R-k Golej�w Rondo,242,18.555,50.14361111
+R-k Golej�w Siedliska,216,18.546888885,50.14811111
+R-k Golej�w Skrzy�owanie,200,18.54872222,50.14319444
+R-k Golej�w Szko�a,213,18.542958335,50.14419444
+R-k Gotartowice,27,18.6124375,50.08005556
+R-k Gotartowice Gotartowicka,301,18.61004167,50.07155556
+R-k Gotartowice Lotnisko,28,18.638027774999998,50.07088889
+R-k Gotartowice Stra�,44,18.61638889,50.075
+R-k Gotartowice Sygna�y,170,18.61561111,50.08419444
+R-k Grabownia I,316,18.53155556,50.14088889
+R-k Grabownia Olszowiec,215,18.51638889,50.14138889
+R-k Grabownia Poloczka,214,18.52811111,50.13969444
+R-k Grabownia Sklep,317,18.52322222,50.13972222
+R-k Kamie� Las,151,18.59355556,50.11783333
+R-k Kamie� O�rodek Sportowy,153,18.596361115,50.13236111
+R-k Kamie� Pojdy,162,18.59833333,50.14583333
+R-k Kamie� Robotnicza,152,18.594194445,50.12872222
+R-k Kamie� Rz�d�wka,156,18.61711111,50.14194444
+R-k Kamie� Skrzy�owanie,163,18.60055556,50.14055556
+R-k Kamie� Szewczyka,251,18.61194444,50.14408333
+R-k Kamie� Szko�a,154,18.60341667,50.13977778
+R-k K�okocin Osiedle,139,18.6209444425,50.05469444
+R-k K�okocin P�tla,138,18.630583335,50.0525
+R-k K�okocin Poligonowa,339,18.61691667,50.05241667
+R-k K�okocin Urz�d Celny,140,18.61055556,50.0575
+R-k Ligocka Ku�nia Ligocka,372,18.60158333,50.08588889
+R-k Ligota Ligocka Ku�nia,26,18.599694444999997,50.08305556
+R-k Ligota Ligocka Ku�niaBoguszowicka,15,18.586083334999998,50.08291667
+R-k Ligota Ligocka Ku�niaKaplica,13,18.578291665000002,50.089
+R-k Ligota Ligocka Ku�niaKo�ci�,169,18.60009722,50.08894444
+R-k Ligota Ligocka Ku�nia RBoguszowicki,14,18.5865833325,50.08861111
+R-k Ligota Ligocka Ku�nia Skrzy�,168,18.59286111,50.09230556
+R-k Ligota Ligocka Ku�niaWiadukt,11,18.563125,50.09461111
+R-k Ligota Ligocka Ku�nia Wolna,405,18.606791665,50.08541667
+R-k Ligota Ligocka Ku�nia �orska,12,18.57136111,50.09330556
+R-k Maroko Nowiny,5,18.5215,50.09744444
+R-k Maroko Nowiny Brzozowa,89,18.51411111,50.091
+R-k Maroko NowinyBudowlanych,3,18.523347219999998,50.10188889
+R-k Maroko Nowiny Chabrowa,4,18.515875,50.0945
+R-k Maroko Nowiny Graniczna,88,18.504555555,50.08866667
+R-k Maroko Nowiny Kominka,434,18.52277778,50.09972222
+R-k Maroko Nowiny Krakusa,379,18.51645833,50.1035
+R-k Maroko Nowiny Ksi�ok,171,18.50875,50.09861111
+R-k Maroko Nowiny Orzepowicka,435,18.51830556,50.09938889
+R-k Maroko Nowiny Raciborska,46,18.52188889,50.09188889
+R-k Maroko Nowiny RondoMazamet,2,18.52844444,50.10175
+R-k Maroko Nowiny Szko�a,24,18.515625,50.10061111
+R-k Maroko NowinyZebrzydowicka,6,18.53291667,50.09575
+R-k Maroko Nowiny �o��dziowa,349,18.52919444,50.10219444
+R-k Meksyk Budowlanka,221,18.55375,50.08530556
+R-k Meksyk Kamyczek,68,18.546379626666663,50.08719444
+R-k Meksyk Park,64,18.546875,50.08172222
+R-k Meksyk Tkocz�w,222,18.56469444,50.07388889
+R-k Niedobczyce Cegielnia,56,18.48175,50.07211111
+R-k Niedobczyce Garbocze,401,18.48766667,50.07691667
+R-k Niedobczyce Ha�dy,83,18.472,50.06497222
+R-k Niedobczyce Janasa,82,18.481944445000003,50.06469444
+R-k Niedobczyce Karolinka,71,18.50975,50.06938889
+R-k Niedobczyce Kopalnia Rymer,96,18.49669444,50.06
+R-k Niedobczyce Niedobczycka,53,18.50373611,50.07469444
+R-k Niedobczyce Orlik,73,18.487805555,50.05861111
+R-k Niedobczyce Pary�,70,18.518444445000004,50.07180556
+R-k Niedobczyce Stadion,72,18.494597220000003,50.06438889
+R-k Niedobczyce Szko�a,54,18.497777779999996,50.06777778
+R-k NiedobczyceWo�odyjowskiego,55,18.49361111,50.07111111
+R-k Niedobczyce Wr�bowa,74,18.48375,50.05388889
+R-k Niewiadom Boisko,374,18.46669444,50.07069444
+R-k Niewiadom Buzowice,205,18.45138889,50.08188889
+R-k Niewiadom Dworzec Kol.,58,18.467659724999997,50.06938889
+R-k Niewiadom Frontowa,85,18.459555555,50.08061111
+R-k Niewiadom Kol Beata,87,18.479768519999997,50.08088889
+R-k Niewiadom Kol Helena,335,18.47244444,50.08047222
+R-k Niewiadom Kopalnia Ignacy,59,18.467855552,50.06191667
+R-k Niewiadom Morcinka,304,18.46194444,50.06072222
+R-k Niewiadom Rac�awicka,57,18.47561111,50.07111111
+R-k Niewiadom Sportowa,404,18.46688889,50.06069444
+R-k Niewiadom Szko�a,84,18.465249999999997,50.07561111
+R-k Ochojec Centrum,219,18.54061111,50.16669444
+R-k Ochojec Ko�ci�,218,18.54830556,50.16438889
+R-k Ochojec M�ynek,217,18.54304167,50.15888889
+R-k Orzepowice Borki,80,18.51938889,50.11469444
+R-k Orzepowice Borki 1,397,18.51430556,50.11283333
+R-k Orzepowice Borki 2,403,18.50902778,50.11125
+R-k Orzepowice Ku�nia,104,18.52623611,50.11744444
+R-k Orzepowice Rondo,107,18.520076387499998,50.1195
+R-k Orzepowice Szpital Woj,81,18.523069444999997,50.11244444
+R-k Paruszowiec Piaski B�onia,165,18.581527780000002,50.10080556
+R-k Paruszowiec Piaski HutaSilesia,149,18.56625,50.10236111
+R-k Paruszowiec PiaskiMiko�owska,150,18.573888885000002,50.10547222
+R-k Paruszowiec PiaskiPrzemys�owa,166,18.575648149999996,50.09830556
+R-k Paruszowiec Piaski Stawowa,164,18.577652774999997,50.10330556
+R-k Paruszowiec Piaski Wolna,167,18.587472225,50.09516667
+R-k Popiel�w Konarskiego,147,18.50969444,50.05080556
+R-k Popiel�w Ko�ci�,99,18.516097225000003,50.05361111
+R-k Popiel�w Skrzy�owanie,97,18.50622917,50.05438889
+R-k Popiel�w Staffa,98,18.51030556,50.05611111
+R-k Popiel�w Wodzis�awska,229,18.50111111,50.04658333
+R-k Popiel�w Worcella,402,18.50041667,50.05594444
+R-k Popiel�w �abik,228,18.511375,50.06111111
+R-k P�noc Gliwicka Szpital,126,18.546680555000002,50.10330556
+R-k P�noc Janiego,262,18.536555555,50.11266667
+R-k P�noc Karolinka,148,18.55877777666667,50.09919444
+R-k P�noc K�pielisko Ruda,127,18.546208335000003,50.11194444
+R-k P�noc Rondo Gliwickie,47,18.544625,50.10205556
+R-k P�noc Rudzka Cmentarz,106,18.53719444,50.10388889
+R-k P�noc Strzelecka,418,18.55836111,50.10272222
+R-k P�noc Wawok,105,18.535,50.11
+R-k P�noc Wyzwolenia,258,18.55352778,50.10094444
+R-k P�noc �u�lowa,414,18.55344444,50.1065
+R-k Radziej�w,100,18.52061111,50.05580556
+R-k Radziej�w Okulickiego,101,18.52638889,50.05888889
+R-k Radziej�w �wiercze,102,18.53061111,50.06469444
+R-k Rybnicka Ku�nia Boisko,334,18.53655556,50.13230556
+R-k Rybnicka Ku�nia Ch�odnie I,134,18.528138887999997,50.13283333
+R-k Rybnicka Ku�nia Ch�odnie II,350,18.52886111,50.13430556
+R-k Rybnicka Ku�nia Elektrownia,133,18.52138889,50.13080556
+R-k Rybnicka Ku�niaMaksymiliana,131,18.525055555,50.1245
+R-k Rybnicka Ku�nia Osiedle,132,18.52280556,50.12688889
+R-k Rybnicka Ku�nia Szko�a,130,18.53061111,50.12188889
+R-k Rybnicka Ku�nia WORD,137,18.542305555,50.13352778
+R-k Smolna Franciszkanie,48,18.535625,50.09438889
+R-k Smolna Kotucza,43,18.528666665,50.09469444
+R-k Smolna Krzy�owa,25,18.524305554999998,50.08780556
+R-k Smolna Osiedle,49,18.530333335,50.08719444
+R-k Smolna Reymonta,45,18.528472219999998,50.09025
+R-k Smolna RondoWodzis�awskie,344,18.53480556,50.08930556
+R-k Smolna S�awik�w,90,18.530805555,50.09391667
+R-k Stodo�y Kaplica,112,18.478944445000003,50.15363889
+R-k Stodo�y Przysta�,111,18.47847222,50.14675
+R-k Stodo�y Stadnina,406,18.478097220000002,50.15688889
+R-k �r�dmie�cie 3 Maja,40,18.54422222,50.0925
+R-k �r�dmie�cie Bazylika,10,18.550518519999997,50.09719444
+R-k �r�dmie�cie Chrobrego,23,18.54669444,50.09311111
+R-k �r�dmie�cie Dworek,261,18.53584722,50.09761111
+R-k �r�dmie�cie DworzecKolejowy,8,18.545629629999997,50.08919444
+R-k �r�dmie�cie Jankowicka,416,18.53722222,50.08383333
+R-k �r�dmie�cie Jankowicka ZUS,91,18.53913889,50.08561111
+R-k �r�dmie�cie Kampus,201,18.54025,50.09888889
+R-k �r�dmie�cie Ko�ciuszki,9,18.54780556,50.09169444
+R-k �r�dmie�cie Miko�owskaLiceum,252,18.55080556,50.09880556
+R-k �r�dmie�cie Piasta,63,18.55061111,50.09938889
+R-k �r�dmie�cie Plac Wolno�ci 1,289,18.54419444,50.09594444
+R-k �r�dmie�cie Plac Wolno�ci 2,290,18.54419444,50.09594444
+R-k �r�dmie�cie Plac Wolno�ci 3,291,18.54419444,50.09594444
+R-k �r�dmie�cie Plac Wolno�ci 3kon,420,18.54419444,50.09594444
+R-k �r�dmie�cie Policja,42,18.542916663333333,50.08863889
+R-k �r�dmie�cie Reymonta ZUS,426,18.54091667,50.08908333
+R-k �r�dmie�cie S�d,7,18.540875,50.09333333
+R-k �r�dmie�cie Urszulanki,41,18.54409722,50.09005556
+R-k Wielopole Lipowa,129,18.54419444,50.11780556
+R-k Wielopole Skrzy�owanie,128,18.548347225,50.11636111
+R-k Wielopole Szko�a,135,18.550319445,50.12280556
+R-k Wielopole Wiadukt,136,18.54979861,50.1325
+R-k Zamys��w Dolna,95,18.529902775,50.08080556
+R-k Zamys��w Dolna Las,94,18.52975,50.07627778
+R-k Zamys��w Dolna Mostek,93,18.532069445,50.07330556
+R-k Zamys��w Gruntowa,203,18.49854167,50.08419444
+R-k Zamys��w Jankowicka,92,18.53673611,50.08119444
+R-k Zamys��w Niedobczycka,51,18.51888889,50.08311111
+R-k Zamys��w Plebiscytowa,50,18.52580556,50.0825
+R-k Zamys��w Wodoci�gi,202,18.50497222,50.08205556
+R-k Zamys��w Wodzis�awska,69,18.52586111,50.08069444
+R-k Zamys��w Wrzosy,52,18.510768516666666,50.07888889
+R-k Zebrzydowice,174,18.487097225,50.10219444
+R-k Zebrzydowice Kasztanowa,399,18.49958333,50.09541667
+R-k Zebrzydowice Las,400,18.50002778,50.08980556
+R-k Zebrzydowice Myto,172,18.500013889999998,50.09969444
+R-k Zebrzydowice Przedmie�cie,398,18.50108333,50.10716667
+R-k Zebrzydowice Szko�a,173,18.49299074,50.10138889
+Radlin Domeyki,209,18.453583334999998,50.04755556
+Radlin Hallera Sokolnia,62,18.46816667,50.05561111
+Radlin Korfantego Centrum,60,18.474481479999998,50.05080556
+Radlin Korfantego KWK Marcel,61,18.48736111,50.0425
+Radlin KorfantegoMakuszy�skiego,428,18.48388889,50.04552778
+Radlin Marklowicka Dom G�rnika,76,18.50030556,50.04330556
+Radlin Rogozina,424,18.47636111,50.05283333
+Radlin Rydu�towska Reden,211,18.46219444,50.05438889
+Radlin Rydu�towska RedenG�rka,212,18.451791665000002,50.05361111
+Radlin Rymera Piekarnia,210,18.46459722,50.0475
+Radlin Ujejskiego,377,18.49025,50.04033333
+Radlin UM,333,18.47363889,50.04786111
+Radoszowy Ko�ci�,86,18.45530556,50.08061111
+Raszczyce Centrum,427,18.30086111,50.12113889
+Raszczyce I,323,18.30886111,50.11419444
+Raszczyce Ko�ci�,324,18.30227778,50.12077778
+Raszczyce Osrodek Zdrowia,425,18.28691667,50.12058333
+Ruda Kozielska,232,18.414541665,50.20061111
+Ruda Kozielska Las,233,18.40080556,50.20311111
+Ruda Kozielska Stra�,231,18.423347225,50.2
+Rudy Ko�ci�,116,18.44719444,50.1925
+Rudy Papro�,113,18.475958335,50.174
+Rudy Rybnicka,114,18.459041665,50.18280556
+Rudy Skrzy�owanie,115,18.45419444,50.18919444
+Rudy Stacja KolejkiW�skotorowej,348,18.46388889,50.19
+Rybnicka Ku�nia Basen,247,18.52083333,50.12944444
+Rybnicka Ku�nia Gimnazjum  I,243,18.528138889999997,50.12055556
+Rybnik DKM,1,18.533766666000002,50.10152778
+Rybnik Dworzec Autobusowy 2,293,18.53383333,50.10138889
+Rybnik Dworzec Autobusowy 3,294,18.53375,50.10141667
+Rybnik Dworzec Autobusowy 4,295,18.53363889,50.10152778
+Rybnik Dworzec Autobusowy 5,296,18.5335,50.10158333
+Rybnik Dworzec Autobusowy A,297,18.53338889,50.10119444
+Rydu�towy Bema Lidl,187,18.414541665,50.06311111
+Rydu�towy Bema Raciborska,185,18.407041665,50.07169444
+Rydu�towy Bema Stadion,186,18.411597225,50.0675
+Rydu�towy Bohater�w W-wyCegielnia,206,18.44361111,50.05311111
+Rydu�towy Bohater�w W-wyOrlovska,207,18.43280556,50.05580556
+Rydu�towy Galeria,421,18.411916665,50.07372222
+Rydu�towy Kopalnia,220,18.43,50.06811111
+Rydu�towy Kowalski,118,18.43952778,50.07777778
+Rydu�towy Krzy�kowickaJesionowa,354,18.39972222,50.05908333
+Rydu�towy Krzy�kowickaOrzechowa,355,18.40808333,50.05788889
+Rydu�towy Mickiewicza,120,18.419305555,50.07219444
+Rydu�towy Obywatelska,422,18.42605556,50.07366667
+Rydu�towy Ofiar Terroru,121,18.424875,50.065
+Rydu�towy Or�owiec,119,18.4224861125,50.07519444
+Rydu�towy O�rodek Zdrowia,423,18.41875,50.06583333
+Rydu�towy Piecowska,194,18.42469444,50.08330556
+Rydu�towy Piekarnia,117,18.451236115,50.07938889
+Rydu�towy Plebiscytowa Szpital,208,18.42519444,50.06
+Rydu�towy Rynek,122,18.4156458325,50.05669444
+Rydu�towy Traugutta Granica,123,18.405694445,50.05169444
+Sumina Centrum,189,18.4135,50.12080556
+Sumina PKP,264,18.402347225,50.13586111
+Szczerbice,178,18.44775,50.10463889
+Szczerbice Dw�r,276,18.44980556,50.09447222
+Szczerbice Kaplica,313,18.445,50.11375
+Szczerbice Piaskowa,177,18.45747222,50.10611111
+Szczerbice Radoszowska,275,18.44647222,50.09002778
+Szczerbice Stra�,278,18.45008333,50.10247222
+Szczerbice Szkolna,277,18.44983333,50.09983333
+Szczyg�owice Al. Piast�w,342,18.62334722,50.19016667
+Szczyg�owice Kopalnia,343,18.63194444,50.19322222
+Sztolniowa Gimnazjum,244,18.59863889,50.05666667
+�r�dmie�cie Urz�d Miasta,347,18.54233333,50.09383333
+�wierklany Bar Karliczek,309,18.57818056,50.00458333
+�wierklany Dolne,306,18.58005556,50.01930556
+�wierklany G�rne,299,18.58791667,50.02933333
+�wierklany G�rne Szko�a,388,18.59330556,50.02552778
+�wierklany O�rodek Zdrowia,305,18.587416665,50.02608333
+�wierklany Piekarnia,300,18.58094444,50.03447222
+�wierklany Plebiscytowa,298,18.59030556,50.03477778
+�wierklany Szko�a Gimnazjum,308,18.57822222,50.01433333
+�wierklany Szyb,310,18.58483333,50.00238889
+Wodzis�aw Cyganek,380,18.48544444,49.99513889
+Wodzis�aw Dw. Aut,363,18.46583333,50.00075
+Wodzis�aw Dworzec PKP,362,18.47522222,50.00836111
+Za Komend�,253,18.543,50.08766667
+Zwonowice Classen,144,18.45719444,50.14
+Zwonowice Szko�a,146,18.44169444,50.14419444
+Zwonowice Wyzwolenia,145,18.45111111,50.14188889
+�ory Al. Jana Paw�a IIBajer�wka,37,18.686055555000003,50.02916667
+�ory Al. Jana Paw�a II S�d,36,18.689555555,50.03780556
+�ory Al. Niepodleg�o�ci,35,18.68830556,50.04469444
+�ory Biskupa,39,18.69683333,50.04441667
+�ory Dworzec Autobusowy,34,18.69394444,50.04780556
+�ory Rybnicka Cmentarz,32,18.678722219999997,50.05536111
+�ory Rybnicka Granica,378,18.64336111,50.07008333
+�ory Rybnicka K�apczyka,33,18.685708335,50.05188889
+�ory Rybnicka Pa�ki,30,18.666249999999998,50.05969444
+�ory Rybnicka Rondo,373,18.66348611,50.06075
+�ory Rybnicka Strefa,31,18.671805560000003,50.0585
+�ory Rybnicka �wietlica,331,18.648430555,50.06938889
+�ory Rybnicka Wi�niowa,29,18.655541665,50.06669444
+�ory Stodolna Cmentarz,38,18.69561111,50.04308333
+�ytna Centrum,322,18.31997222,50.10919444
