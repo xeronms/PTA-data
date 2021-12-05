@@ -18,6 +18,6 @@ W tym Repozytoium znajdują się Notatniki i skrypty służące do preprocessing
 + **Połączenia.csv** - Baza z rekordami zawierająca numer karty, datę dzienną, godzinę , dzień tygodnia, oraz kod przystanku początkowego i końcowego
 + **Przepracowanie.py** - Skrypt Pythona umożliwiający szybkie manualne poprawienie ID rekordów
 
-![image](https://user-images.githubusercontent.com/56306081/144738364-f2ff5af1-2b32-4179-b70f-37ce702151e7.png)
-![image](https://user-images.githubusercontent.com/56306081/144738367-5027ae10-6b72-4daa-afcd-c62166ec463d.png)
+![image](https://user-images.githubusercontent.com/56306081/144738386-079ea4cc-1ece-4430-800a-b84f0715e36f.png)
+
 
