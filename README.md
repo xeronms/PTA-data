@@ -1,7 +1,8 @@
-﻿## FungyOpti -  Analiza i wizualizacja strumieni ruchu
+﻿## FungyOpti -  Repozytorium preprocessingu
 
 FungyOpti to prosta i łatwa w użyciu aplikacja do wizualizacji 
-ilości wsiadających i wysiadających na przystankach oraz Analizy przemieszczenia z komunikacją Miejską
+ilości wsiadających i wysiadających na przystankach oraz Analizy przemieszczenia z komunikacją Miejską. 
+W tym Repozytoium znajdują się Notatniki i skrypty służące do preprocessingu danych, do formatu wykorzystywanego przez aplikację.
 
 ### Zawartość Repozytorium
 + **Rybnik_Preprocessing** - notatnik jupytera służący do wstępnego preprocessingu,
@@ -15,6 +16,6 @@ ilości wsiadających i wysiadających na przystankach oraz Analizy przemieszcze
 + **Rybnik_Analiza** - W tym pliku znajdują się  wstępne analizy i wizualizacje Danych
 + **Przystanki.csv** - Baza danych z Nazwami przystanków, kodem, Dzielnicą oraz współrzędnymi geograficznymi
 + **Połączenia.csv** - Baza z rekordami zawierająca numer karty, datę dzienną, godzinę , dzień tygodnia, oraz kod przystanku początkowego i końcowego
-+  
++ **Przepracowanie.py** - Skrypt Pythona umożliwiający szybkie manualne poprawienie ID rekordów
 
 
