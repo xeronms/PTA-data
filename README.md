@@ -7,6 +7,7 @@ ilości wsiadających i wysiadających na przystankach oraz Analizy przemieszcze
 + **Preprocessing** - zawiera notatniki jupytera służące do preprocessingu,
 	czyszczenia danych, transformacji zmiennych oraz konstrukcji nowych cech. 
 
-	W pliku **Rybnik_Analiza** znajdują się również wstępna wizualizacja Danych
-+ **
++ W pliku **Rybnik_Analiza** znajdują się również wstępna wizualizacja Danych
++ 
+
 
