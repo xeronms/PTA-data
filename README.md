@@ -19,5 +19,7 @@ W tym Repozytoium znajdują się Notatniki i skrypty służące do preprocessing
 + **Przepracowanie.py** - Skrypt Pythona umożliwiający szybkie manualne poprawienie ID rekordów
 
 ![image](https://user-images.githubusercontent.com/56306081/144738386-079ea4cc-1ece-4430-800a-b84f0715e36f.png)
+![image](https://user-images.githubusercontent.com/56306081/144738405-72c42062-0a22-4a75-a61e-fe6814b5c9a7.png)
+
 
 
